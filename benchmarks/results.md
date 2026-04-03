@@ -56,3 +56,9 @@ ________________________________________
 
 ✅ Confirms scalability beyond minimal circuits
 ✅ Maintains stable expectation estimation under increased dimensional encoding
+________________________________________
+
+⚛️ Quantum Output Comparison
+
+![Hardware Stability Graph](Figure_1.png)
+
