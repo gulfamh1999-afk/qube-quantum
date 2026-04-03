@@ -1,6 +1,6 @@
 # Qube Quantum Engine
 
-> A minimal hybrid quantum learning engine for encoding and optimizing classical data in quantum states.
+> A hybrid quantum learning engine for encoding and optimizing classical data in quantum states.
 
 ---
 
@@ -87,6 +87,16 @@ Based on final verification tests on **March 29, 2026**:
 - **Robust Generalization:** Successfully aligned multi-sample manifolds with a final dataset loss of **0.0005**.
 - **Advanced Ansatz:** Implements a localized RY+RZ variational layer with Z-Observable expectation mapping for maximum expressivity.
 
+---
+
+##Hardware Benchmark **(IBM Quantum Validation)**
+
+Qube Quantum Engine has been validated on real-world superconducting quantum hardware using the IBM Quantum Platform (Heron-class processors) acheiving an elite 98.23% Stability Score. Verified on **April 3, 2026**
+
+Average Hardware Fidelity: **98.23%**
+- Verified across ibm_fez, ibm_kingston, and ibm_marrakesh backends.
+  
+  *Navigate to benchmarks for more details.
 ---
 
 ## License
