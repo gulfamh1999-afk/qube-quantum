@@ -99,6 +99,13 @@ Average Hardware Fidelity: **98.23%**
   *Navigate to benchmarks for more details.
 ---
 
+## 📄 Associated Publication
+
+If you use or reference this work, please cite:
+
+> Hussain, G. (2026). *Qube Engine: Noise-Resilient Quantum Learning Framework for NISQ Systems (v1.2)*. Zenodo.  
+> https://doi.org/10.5281/zenodo.19415679
+
 ## License
 
 MIT License — free to use, modify, and build upon.
