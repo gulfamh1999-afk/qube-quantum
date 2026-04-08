@@ -1,3 +1,11 @@
+# Core Qiskit packages
 qiskit>=1.0.0
+qiskit-aer>=0.15.0
+qiskit-ibm-runtime>=0.30.0
+
+# Scientific computing
 numpy>=1.24.0
 scipy>=1.10.0
+
+# Plotting (used in benchmark)
+matplotlib>=3.8.0
