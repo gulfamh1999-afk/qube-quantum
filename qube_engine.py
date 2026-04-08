@@ -28,7 +28,7 @@ class QubeEngine:
             qc.rz(params[i+n], i)  # Train phase
 
         for i in range(n - 1):
-            qc.cx(i, i + 1)        # Entangle
+            qc.cx(i, i + 1)        # Entangle  ← FULL CHAIN (paper exact)
 
         return qc
 
@@ -101,7 +101,7 @@ class QubeEngine:
             options={'maxiter': maxiter}
         )
 
-        return result.x, result.fun
+        return result.x, result.fun   # ← NOW RETURNS (params, loss) for README
 
 
 # -------------------------------
