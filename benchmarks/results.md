@@ -1,3 +1,5 @@
+ 🛠️v1.1 — Full paper circuit alignment + README compatibility fixed (April 9, 2026)
+
 ⚛️**Hardware Benchmark (IBM Quantum Validation)**
 
 Qube Quantum Engine has been validated on real quantum hardware using the IBM Quantum Platform (Heron-class processors).
