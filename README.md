@@ -79,7 +79,7 @@ Optimization (COBYLA)
 
 ---
 
-##Performance Highlights
+## Performance Highlights 
 
 Based on final verification tests on **March 29, 2026**:
 
@@ -89,7 +89,7 @@ Based on final verification tests on **March 29, 2026**:
 
 ---
 
-##Hardware Benchmark **(IBM Quantum Validation)**
+## Hardware Benchmark **(IBM Quantum Validation)**
 
 Qube Quantum Engine has been validated on real-world superconducting quantum hardware using the IBM Quantum Platform (Heron-class processors) acheiving an elite 98.23% Stability Score. Verified on **April 3, 2026**
 
@@ -97,6 +97,11 @@ Average Hardware Fidelity: **98.23%**
 - Verified across ibm_fez, ibm_kingston, and ibm_marrakesh backends.
   
   *Navigate to benchmarks for more details.
+
+## Dataset Qube Application 
+
+https://github.com/gulfamh1999-afk/qube-cancer-atlas
+
 ---
 
 ## 📄 Associated Publication
