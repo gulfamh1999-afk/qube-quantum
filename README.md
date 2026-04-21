@@ -98,6 +98,8 @@ Average Hardware Fidelity: **98.23%**
   
   *Navigate to benchmarks for more details.
 
+---
+
 ## Dataset Qube Application 
 
 https://github.com/gulfamh1999-afk/qube-cancer-atlas
@@ -111,10 +113,14 @@ If you use or reference this work, please cite:
 > Hussain, G. (2026). *Qube Engine: Noise-Resilient Quantum Learning Framework for NISQ Systems (v1.2)*. Zenodo.  
 > https://doi.org/10.5281/zenodo.19415679
 
+---
+
 ## ⚖️ Intellectual Property & Copyright
 The underlying algorithmic logic, specific ansatz architecture, and quantum-classical hybrid optimization strategies contained within this repository are the original intellectual property of the author and are formally registered with the United States Copyright Office. 
 
 © 2026 Gulfam Hussain. Licensed under MIT (Community) / Proprietary (Enterprise).
+
+---
 
 ## 🔓 Licensing
 This software is dual-licensed:
