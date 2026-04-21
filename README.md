@@ -111,7 +111,16 @@ If you use or reference this work, please cite:
 > Hussain, G. (2026). *Qube Engine: Noise-Resilient Quantum Learning Framework for NISQ Systems (v1.2)*. Zenodo.  
 > https://doi.org/10.5281/zenodo.19415679
 
-## License
+## ⚖️ Intellectual Property & Copyright
+The underlying algorithmic logic, specific ansatz architecture, and quantum-classical hybrid optimization strategies contained within this repository are the original intellectual property of the author and are formally registered with the United States Copyright Office. 
 
-MIT License — free to use, modify, and build upon.
-Attribution to the original author is appreciated.
+© 2026 Gulfam Hussain. Licensed under MIT (Community) / Proprietary (Enterprise).
+
+## 🔓 Licensing
+This software is dual-licensed:
+
+Community Edition (MIT License): This specific public implementation is provided for individual research, academic exploration, and community innovation. Permission is granted to use, modify, and build upon this code provided that this original copyright notice and license are included in all copies.
+
+Enterprise & Commercial Edition: For enterprise production environments, high-performance proprietary dataset integration, or commercial applications, a separate Commercial License is required.
+
+For commercial inquiries or to discuss the Qube Engine program, please reach out via gulfamh1999@gmail.com.
