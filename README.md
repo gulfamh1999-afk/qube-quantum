@@ -1,6 +1,6 @@
-# Qube Quantum Engine (Verified on real IBM Quantum hardware with 98.23% stability across multiple backends).
+# Qube Quantum Engine: Variational Quantum Regression on IBM Quantum Hardware
 
-> A hybrid quantum learning engine for encoding and optimizing classical data in quantum states. 
+A hybrid quantum-classical machine learning framework implementing Variational Quantum Regression (VQR) for encoding classical genomic data (CCLE/GDSC) into parameterized quantum states. Evaluated across IBM Quantum superconducting processors (`ibm_marrakesh`, `ibm_fez`, `ibm_kingston`). 
 
 ---
 
